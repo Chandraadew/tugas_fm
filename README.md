@@ -1,3 +1,1 @@
-# PROJECT PAK GO
-# REFI AMIRULLAH 
-# E-LEARNING
+# Chandra Ade Wijaya
