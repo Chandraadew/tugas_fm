@@ -1,0 +1,10 @@
+jawaban no 1
+Rest Api adalah sebagai jembatan untuk client dan server.Dimana si client akan menambahkan fitur seperti update,hapus,dll dan disitu lah rest api akan bekerja untuk
+meneruskan ke server.
+
+jawaban no 2
+
+
+jawaban no 3
+Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web.
+untuk kelebihannya dibanding frontend langsung adalah mendapatkan kemampuan manuver dan fleksibilitas dari sebuah startup.
